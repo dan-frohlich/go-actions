@@ -4,4 +4,9 @@ date: 2020-11-09T17:39:38Z
 draft: true
 ---
 
-this is cool
+---
+title: "this is cool"
+date: 2020-11-09T17:39:38Z
+draft: false
+---
+
